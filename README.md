@@ -7,7 +7,14 @@
 
 ### Contents
 
+- [Blogs](#blogs)
+- [Emulators](#emulators)
 - [Magazines](#magazines)
+
+
+## Blogs
+
+## Emulators
 
 
 ## Magazines
