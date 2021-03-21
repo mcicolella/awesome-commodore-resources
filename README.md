@@ -12,6 +12,7 @@
 - [Communities](#communities)
 - [Emulators](#emulators)
 - [Magazines](#magazines)
+- [Videos](#videos)
 
 
 ## Blogs
@@ -29,3 +30,8 @@
 ## Magazines
 
 - [Zzap!](https://zzapmagazine.blogspot.com/) (ITA)
+
+
+# Videos
+
+- [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) (ITA)
