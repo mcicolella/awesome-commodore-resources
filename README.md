@@ -8,11 +8,20 @@
 ### Contents
 
 - [Blogs](#blogs)
+- [Books](#books)
+- [Communities](#communities)
 - [Emulators](#emulators)
 - [Magazines](#magazines)
 
 
 ## Blogs
+
+
+## Books
+
+
+## Communities
+
 
 ## Emulators
 
