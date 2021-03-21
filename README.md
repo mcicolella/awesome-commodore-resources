@@ -26,6 +26,9 @@
 
 ## Emulators
 
+- [CCS64 A Commodore 64 Emulator](http://www.ccs64.com/)
+- [VICE the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/)
+
 
 ## Magazines
 
