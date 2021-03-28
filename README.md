@@ -3,7 +3,8 @@
 
 > A curated list of Commodore resources.
 
-**Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net).**
+**Check out my [Twitter account](https://twitter.com/emmecilab) or [blog](https://www.emmecilab.net) and subscribe my [YouTube channel](https://youtube.com/c/emmecilab)**.
+
 
 ### Contents
 
