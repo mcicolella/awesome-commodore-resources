@@ -11,6 +11,7 @@
 - [Blogs](#blogs)
 - [Books](#books)
 - [Communities](#communities)
+- [Downloads](#downloads)
 - [Emulators](#emulators)
 - [Magazines](#magazines)
 - [Programming](#programming)
@@ -24,6 +25,14 @@
 
 
 ## Communities
+
+
+## Downloads
+
+- [Edicola C64](https://www.edicolac64.com/public/index.php)
+- [GB64](http://www.gb64.com/index.php)
+- [Nightfall Crew](https://www.nightfallcrew.com/)
+- [PlayEdicola](https://www.playedicola.it/)
 
 
 ## Emulators
