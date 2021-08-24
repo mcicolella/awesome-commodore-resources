@@ -45,6 +45,7 @@
 
 - [C64 Javascript emulator](https://github.com/nippur72/c64-emu)
 - [CCS64 A Commodore 64 Emulator](http://www.ccs64.com/)
+- [Simple Emu C64](https://github.com/davervw/simple-emu-c64?fbclid=IwAR1J1fWypVV7pvGl6CUvcYaRXWDQCNY5OT2hZBX_hCGkevdzfFhOvEEtVSY)
 - [VICE the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/)
 
 
