@@ -24,6 +24,14 @@
 
 ## Books
 
+- [Commodore - The inside story: edizione italiana](https://amzn.to/3ApKlzq)
+- [Commodore Amiga: A Visual Commpendium](https://amzn.to/3DhtLDn)
+- [Commodore 64. Nostalgic edition. Ediz. illustrata](https://amzn.to/3Ajo6uE)
+- [Commodore 65 - La storia](https://amzn.to/3Am7l25)
+- [Il Nuovo Manuale del BASIC per Commodore 64](https://amzn.to/3liO4KM)
+- [Programming the Commodore 64 again: Create a game step by step](https://amzn.to/3iE4U58)
+- [Sulla cresta... del baratro: la spettacolare ascesa e caduta della Commodore](https://amzn.to/3mCgOxA)
+
 
 ## Communities
 
