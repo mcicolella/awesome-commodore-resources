@@ -16,6 +16,7 @@
 - [Emulators](#emulators)
 - [Magazines](#magazines)
 - [Programming](#programming)
+- [Tools](#tools)
 - [Videos](#videos)
 
 
@@ -69,6 +70,11 @@
 ## Programming
 
 - [XC=BASIC](https://xc-basic.net/doku.php?fbclid=IwAR1ZXJ2DfNBSPFf3x-pscKZffI1RFxehhStFcO75_Y5RDuQ5xG-mQSB2DA0)
+
+
+## Tools
+
+- [C64 Kernal Mod v1.1] (Modify text and colours of kernal) (http://tools.anemo.se/c64/kernal-mod/?fbclid=IwAR3hiJevlTdmYnKbBVhx9ofUx5ZBaZOr4MqM582hvgptxvgifMLseFYcwcY)
 
 
 ## Videos
