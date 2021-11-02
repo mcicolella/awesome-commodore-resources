@@ -74,7 +74,7 @@
 
 ## Tools
 
-- [C64 Kernal Mod v1.1] (Modify text and colours of kernal) (http://tools.anemo.se/c64/kernal-mod/?fbclid=IwAR3hiJevlTdmYnKbBVhx9ofUx5ZBaZOr4MqM582hvgptxvgifMLseFYcwcY)
+- [C64 Kernal Mod v1.1](http://tools.anemo.se/c64/kernal-mod/?fbclid=IwAR3hiJevlTdmYnKbBVhx9ofUx5ZBaZOr4MqM582hvgptxvgifMLseFYcwcY) - Modify text and colours of kernal
 
 
 ## Videos
