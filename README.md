@@ -36,6 +36,11 @@
 
 ## Communities
 
+- [Commodore 64/128 Italia](https://www.facebook.com/groups/commodore64.128italia) (ITA)
+- [Commodore 64/128 Programming](https://www.facebook.com/groups/2105373096362690) (ENG)
+- [Commodoremania](https://www.facebook.com/groups/commodoremania) (ITA)
+- [RetroProgramming Italia - RP Italia (A division of RetroCampus)](https://www.facebook.com/groups/retroprogramming) (ITA)
+
 
 ## Development Tools
 
