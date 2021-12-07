@@ -84,6 +84,3 @@
 - [Imparare a programmare in Basic con il Commodore, GwBasic per DOS, QuickBasic QB64](https://www.youtube.com/watch?v=YzU4596jRqg&list=PLfWOCTAcUrxjm-WEft6F1NqUNYVqeClBa) (ITA)
 - [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) (ITA)
 
-## Get in touch
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mcicolella) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mauro-cicolella-0b107076//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/EmmeCiLab-114063663344644) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@emmecilab) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.emmecilab.net) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='website' height='40'>](https://www.youtube.com/c/emmecilab)
