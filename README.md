@@ -1,6 +1,7 @@
 # Awesome Commodore resources
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCwTjA-PulR8QrL6C2tiBrDg?label=SUBSCRIBE-EmmeCiLab&style=plastic)](https://www.youtube.com/c/emmecilab?sub_confirmation=1)
 
 > A curated list of Commodore resources.
 
