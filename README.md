@@ -16,14 +16,17 @@
 - [Downloads](#downloads)
 - [Emulators](#emulators)
 - [Magazines](#magazines)
+- [Music](#music)
 - [Programming](#programming)
 - [Tools](#tools)
 - [Videos](#videos)
+
 
 ## Blogs
 
 - [Commodore Time](https://www.facebook.com/commodoretime)
 - [Ready64](https://ready64.org/)
+
 
 ## Books
 
@@ -35,12 +38,14 @@
 - [Programming the Commodore 64 again: Create a game step by step](https://amzn.to/3iE4U58)
 - [Sulla cresta... del baratro: la spettacolare ascesa e caduta della Commodore](https://amzn.to/3mCgOxA)
 
+
 ## Communities
 
 - [Commodore 64/128 Italia](https://www.facebook.com/groups/commodore64.128italia) (ITA)
 - [Commodore 64/128 Programming](https://www.facebook.com/groups/2105373096362690) (ENG)
 - [Commodoremania](https://www.facebook.com/groups/commodoremania) (ITA)
 - [RetroProgramming Italia - RP Italia (A division of RetroCampus)](https://www.facebook.com/groups/retroprogramming) (ITA)
+
 
 ## Development Tools
 
@@ -49,12 +54,14 @@
 - [Convertron3000](https://github.com/fieserWolF/convertron3000) - Graphics converter for Commodore 64 computers
 - [Tape Master Pro 4](https://richard-tnd.itch.io/tapemasterpro4?fbclid=IwAR1Pvfh7dx3rIfP7PFnDgHRNR6boFchMKiaq6yYHa7Ae0nx4ItQHGaT5QqE)
 
+
 ## Downloads
 
 - [Edicola C64](https://www.edicolac64.com/public/index.php)
 - [GB64](http://www.gb64.com/index.php)
 - [Nightfall Crew](https://www.nightfallcrew.com/)
 - [PlayEdicola](https://www.playedicola.it/)
+
 
 ## Emulators
 
@@ -66,18 +73,27 @@
 - [VirtualC64](https://dirkwhoffmann.github.io/virtualc64/) (only for macOS)
 - [C64 online](https://c64online.com/)
 
+
 ## Magazines
 
 - [Zzap!](https://zzapmagazine.blogspot.com/) (ITA)
+
+
+## Music
+
+- [High Voltage SID Collection (HVSC)](https://hvsc.c64.org/)
+
 
 ## Programming
 
 - [XC=BASIC](https://xc-basic.net/doku.php?fbclid=IwAR1ZXJ2DfNBSPFf3x-pscKZffI1RFxehhStFcO75_Y5RDuQ5xG-mQSB2DA0)
 
+
 ## Tools
 
 - [C64 Kernal Mod v1.1](http://tools.anemo.se/c64/kernal-mod/?fbclid=IwAR3hiJevlTdmYnKbBVhx9ofUx5ZBaZOr4MqM582hvgptxvgifMLseFYcwcY) - Modify text and colours of kernal
 - [The Pictorial C64 Fault Guide](https://www.pictorial64.com/)
+
 
 ## Videos
 
