@@ -12,6 +12,7 @@
 - [Blogs](#blogs)
 - [Books](#books)
 - [Communities](#communities)
+- [Courses](#courses)
 - [Development Tools](#development-tools)
 - [Downloads](#downloads)
 - [Emulators](#emulators)
@@ -37,6 +38,11 @@
 - [Il Nuovo Manuale del BASIC per Commodore 64](https://amzn.to/3liO4KM)
 - [Programming the Commodore 64 again: Create a game step by step](https://amzn.to/3iE4U58)
 - [Sulla cresta... del baratro: la spettacolare ascesa e caduta della Commodore](https://amzn.to/3mCgOxA)
+
+
+## Courses
+
+- [Corso introduttivo di retro programmazione in BASIC](https://github.com/pippokill/corsobasic2022) - Slides + examples (ITA)
 
 
 ## Communities
@@ -101,7 +107,7 @@
 
 ## Videos
 
-- [Corso di Assembly per il Commodore 64](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXrKLiJo1_K1DYAfSnbI2c2)(ITA)
+- [Corso di Assembly per il Commodore 64](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXrKLiJo1_K1DYAfSnbI2c2) (ITA)
 - [Imparare a programmare in Basic con il Commodore, GwBasic per DOS, QuickBasic QB64](https://www.youtube.com/watch?v=YzU4596jRqg&list=PLfWOCTAcUrxjm-WEft6F1NqUNYVqeClBa) (ITA)
 - [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) (ITA)
 
