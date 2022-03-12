@@ -101,6 +101,7 @@
 
 ## Videos
 
+- [Corso di Assembly per il Commodore 64](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXrKLiJo1_K1DYAfSnbI2c2)(ITA)
 - [Imparare a programmare in Basic con il Commodore, GwBasic per DOS, QuickBasic QB64](https://www.youtube.com/watch?v=YzU4596jRqg&list=PLfWOCTAcUrxjm-WEft6F1NqUNYVqeClBa) (ITA)
 - [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) (ITA)
 
