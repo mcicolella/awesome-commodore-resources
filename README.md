@@ -86,6 +86,7 @@
 
 ## Magazines
 
+- [Commodoriani](https://commodore.inc/commodoriani/?fbclid=IwAR2XQMesvaU1yKm1K6AkF-BX3tqcSI6i0238oNfJsdAvMYWzTPikqRs6nr8) (ITA)
 - [Zzap!](https://zzapmagazine.blogspot.com/) (ITA)
 
 
