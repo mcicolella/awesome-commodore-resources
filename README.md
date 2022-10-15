@@ -85,6 +85,7 @@
 - [VICE the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/)
 - [VirtualC64](https://dirkwhoffmann.github.io/virtualc64/) (only for macOS)
 - [C64 online](https://c64online.com/)
+- [The Arduino C64 Emulator](https://github.com/michalin/Arduino-C64-Emulator)
 
 
 ## Magazines
