@@ -59,6 +59,7 @@
 ## Development Tools
 
 - [API Amiga in C](http://amigadev.elowar.com/read/ADCD_2.1/Includes_and_Autodocs_3._guide/node0001.html?fbclid=IwAR2v7S1wpcjEaFKz_LOLi2e5xFnqczjeEh7ax9kVZaf5hMDglf04ms-3zQ8)
+- [c128lib](https://github.com/c128lib) - Useful macro, labels and tool for Commodore 128 development
 - [C64 Studio](https://www.georg-rottensteiner.de/en/index.html) - BASIC, Assembly (Windows)
 - [Convertron3000](https://github.com/fieserWolF/convertron3000) - Graphics converter for Commodore 64 computers
 - [lvllvl](https://lvllvl.com/) - Create pictures using character sets
