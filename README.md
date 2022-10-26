@@ -79,6 +79,7 @@
 
 ## Emulators
 
+- [Scripted Amiga Emulator](https://github.com/naTmeg/ScriptedAmigaEmulator)
 - [CCS64 A Commodore 64 Emulator](http://www.ccs64.com/)
 - [C64 Javascript emulator](https://github.com/nippur72/c64-emu)
 - [C64 online](https://c64online.com/)
