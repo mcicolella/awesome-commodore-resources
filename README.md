@@ -62,6 +62,7 @@
 - [c128lib](https://github.com/c128lib) - Useful macro, labels and tool for Commodore 128 development
 - [C64 Studio](https://www.georg-rottensteiner.de/en/index.html) - BASIC, Assembly (Windows)
 - [Convertron3000](https://github.com/fieserWolF/convertron3000) - Graphics converter for Commodore 64 computers
+- [LAMAlib](https://github.com/demesos/LAMAlib) - Lightweight Assembler MAcro library for cc65
 - [lvllvl](https://lvllvl.com/) - Create pictures using character sets
 - [SID Factory II](https://blog.chordian.net/sf2/?fbclid=IwAR30ll5fysFzKBA24LjhCgR3Inb1jMMMd1BWo6fqJRqSxO7_GXnNvmOfvDM)
 - [Tape Master Pro 4](https://richard-tnd.itch.io/tapemasterpro4?fbclid=IwAR1Pvfh7dx3rIfP7PFnDgHRNR6boFchMKiaq6yYHa7Ae0nx4ItQHGaT5QqE)
@@ -89,8 +90,6 @@
 - [vAmiga](https://dirkwhoffmann.github.io/vAmiga/) (only for macOS)
 - [VICE the Versatile Commodore Emulator](https://vice-emu.sourceforge.io/)
 - [VirtualC64](https://dirkwhoffmann.github.io/virtualc64/) (only for macOS)
-
-
 
 
 ## Magazines
